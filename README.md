@@ -19,11 +19,3 @@ Al hacer clic en un marcador, se puede ver el nombre del hotel y la categoría d
     - `Estrellas`: Número de estrellas (4 o 5)
 - `mapa_mundial_hoteles.html`: Archivo HTML generado que contiene el mapa interactivo.
 
-## Uso
-
-Para crear el mapa interactivo:
-
-1. Clona este repositorio y asegúrate de que el archivo `listadomaestro.xlsx` esté en la misma carpeta que el código Python.
-2. Instala las dependencias si aún no lo has hecho:
-   ```bash
-   pip install folium pandas
